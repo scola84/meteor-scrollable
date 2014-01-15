@@ -3,5 +3,8 @@
   "description": "Scrollable for Meteor",
   "author": "Koen van den Boogaart",
   "version": "0.0.1",
-  "git": "https://github.com/scola84/meteor-scrollable.git"
+  "git": "https://github.com/scola84/meteor-scrollable.git",
+  "packages": {
+    "jquery-ui": "1.9.2"
+  }
 }
