@@ -1,0 +1,9 @@
+[submodule "scrollable"]
+	path = scrollable
+	url = https://github.com/scola84/jquery-scrollable
+[submodule "mousewheel"]
+	path = mousewheel
+	url = https://github.com/brandonaaron/jquery-mousewheel
+[submodule "resize"]
+	path = resize
+	url = https://github.com/cowboy/jquery-resize
